@@ -1,0 +1,29 @@
+src.tests package
+=================
+
+Submodules
+----------
+
+src.tests.pytest\_test module
+-----------------------------
+
+.. automodule:: src.tests.pytest_test
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.tests.unittest\_test module
+-------------------------------
+
+.. automodule:: src.tests.unittest_test
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: src.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
