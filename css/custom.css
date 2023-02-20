@@ -1,0 +1,25 @@
+#books div.portfolio-item {
+    box-shadow: 5px 5px 0 var(--bs-green);
+    height: 100%;
+    width: 100%;
+}
+
+#books div.portfolio-item img
+{
+    height: 100%;
+    width: 100%;
+}
+
+#marksQuote1 {
+    padding: 5%;
+    border-radius: 5px;
+    background: var(--bs-gray-400);
+}
+
+#carouselExampleDark img {
+    max-height: 600px;
+}
+
+#quiz {
+    background: var(--bs-gray-200)
+}
